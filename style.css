@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    border: solid;
+    background-color: blue;
+    color: antiquewhite;
+}
+
+h3{
+    text-align: center;
+
+}
+
+.nome{
+    text-align: center;
+}
+
+
+.gênero{
+    text-align:left
+}
+
+.corpo{
+    background-color:aqua
+}
